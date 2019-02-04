@@ -16,7 +16,12 @@ struct GameManager {
 var storedFacts: [Int] = []
 var indexOfSelectedQuestion: Int = 0
 var shouldGenerateRandomNumber = true
-
+    var gameRunTime = 60
+    let staticPlayTime = 60
+    var score: Int = 0
+    var totalRounds = 6
+    var round = 0
+    var correctAnswer = 0
 let facts: [Events] =
 [Events(events: "Charles Babbage begins work on Analytical Engine.", occuranceDate: 1835),
 Events(events: "Ada Lovelace creates first computer program.", occuranceDate: 1842),
@@ -61,4 +66,7 @@ mutating func generateRandomNumber()-> Int{
     }
     return indexOfSelectedQuestion
 }
+   
+    
 }
+

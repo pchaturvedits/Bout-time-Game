@@ -13,6 +13,7 @@
 		C8FA206B21DD759700E81E69 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C8FA206921DD759700E81E69 /* Main.storyboard */; };
 		C8FA206D21DD759800E81E69 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8FA206C21DD759800E81E69 /* Assets.xcassets */; };
 		C8FA207021DD759800E81E69 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C8FA206E21DD759800E81E69 /* LaunchScreen.storyboard */; };
+		C8FC041C21F82A4B00E451A1 /* scoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8FC041B21F82A4B00E451A1 /* scoreViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C8FA206C21DD759800E81E69 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C8FA206F21DD759800E81E69 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C8FA207121DD759800E81E69 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C8FC041B21F82A4B00E451A1 /* scoreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = scoreViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				C8FA206521DD759700E81E69 /* AppDelegate.swift */,
 				C8FA206721DD759700E81E69 /* ViewController.swift */,
+				C8FC041B21F82A4B00E451A1 /* scoreViewController.swift */,
 				C8FA206921DD759700E81E69 /* Main.storyboard */,
 				C865AED921F181F800D2EE5D /* facts provider .swift */,
 				C8FA206C21DD759800E81E69 /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 				C8FA206821DD759700E81E69 /* ViewController.swift in Sources */,
 				C8FA206621DD759700E81E69 /* AppDelegate.swift in Sources */,
 				C865AEDA21F181F800D2EE5D /* facts provider .swift in Sources */,
+				C8FC041C21F82A4B00E451A1 /* scoreViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
