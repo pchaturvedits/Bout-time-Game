@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "bout time game/scoreViewController.swift"
+            timestampString = "570946844.6831599"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "bout time game/scoreViewController.swift"
+            timestampString = "570946844.683489"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "scoreViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "bout_time_game.scoreViewController.totalRounds.getter : Swift.Optional&lt;Swift.Int&gt;"
+                  moduleName = "bout time game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishchaturvedi/Unit3-Bout-time-/bout%20time%20game/scoreViewController.swift"
+                  timestampString = "570504332.579797"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "bout_time_game.scoreViewController.totalRounds.setter : Swift.Optional&lt;Swift.Int&gt;"
+                  moduleName = "bout time game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishchaturvedi/Unit3-Bout-time-/bout%20time%20game/scoreViewController.swift"
+                  timestampString = "570504332.582481"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "bout_time_game.scoreViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; bout_time_game.scoreViewController"
+                  moduleName = "bout time game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishchaturvedi/Unit3-Bout-time-/bout%20time%20game/scoreViewController.swift"
+                  timestampString = "570504332.585389"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "275">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "bout_time_game.scoreViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;bout_time_game.scoreViewController&gt;"
+                  moduleName = "bout time game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishchaturvedi/Unit3-Bout-time-/bout%20time%20game/scoreViewController.swift"
+                  timestampString = "570504332.589169"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "204">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
